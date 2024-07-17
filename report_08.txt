@@ -1,6 +1,5 @@
-あのイーハトーヴォのすきとおった風、
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+あのイーハトーヴォのすきとおった風、conflict
+コンフリクト conflict
 conflict
-コンフリクト
 
-夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリモリファンタジー、郊外のぎらぎらひかる草の波。
+夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたconflictファンタジー、郊外のぎらぎらひかる草の波。
